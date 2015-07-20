@@ -1,0 +1,30 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Jeremy Stover",
+        "email": "jeremy.ryan.stover@gmail.com"
+      },
+      "libraryName": {
+        "original": "angular-startup-icons",
+        "camelized": "angularStartupIcons",
+        "dasherized": "angular-startup-icons",
+        "slugified": "angular-startup-icons",
+        "parts": [
+          "angular",
+          "startup",
+          "icons"
+        ]
+      },
+      "includeModuleDirectives": true,
+      "includeModuleFilters": false,
+      "includeModuleServices": false,
+      "includeAngularModuleResource": false,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": true,
+      "librarySrcDirectory": "src/angular-startup-icons",
+      "libraryUnitTestDirectory": "test/unit/angular-startup-icons",
+      "libraryUnitE2eDirectory": "test/e2e/angular-startup-icons"
+    }
+  }
+}
